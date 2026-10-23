@@ -17,9 +17,6 @@ Para facilitar o acesso aos materiais, o repositório está estruturado da segui
 ### 📁 **/materiais**  
 Documentos contendo explicações, regras e instruções de cada jogo ou atividade.
 
-### 📁 **/recursos**  
-Arquivos complementares (planilhas, cartas, impressos, templates etc.)
-
 Cada material contém instruções de uso e exemplos para que professores e estudantes possam **aplicar os recursos de forma independente**.
 
 ---
@@ -28,5 +25,4 @@ Cada material contém instruções de uso e exemplos para que professores e estu
 
 Siga e acompanhe o projeto nas redes sociais:  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSIRA_LINK_DO_INSTAGRAM)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LetramentoEstat%C3%ADsticoUFF) 
